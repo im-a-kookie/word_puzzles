@@ -1,0 +1,63 @@
+Date : 2024-07-11 10:33:13
+Directory : c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib
+Total : 30 files,  3274 codes, 520 comments, 530 blanks, all 4324 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         30 |      3,274 |        520 |        530 |      4,324 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         30 |      3,274 |        520 |        530 |      4,324 |
+| . (Files)                                                                                          |          5 |        528 |         73 |         77 |        678 |
+| fourdle                                                                                            |          9 |      1,002 |        239 |        163 |      1,404 |
+| fourdle (Files)                                                                                    |          2 |        477 |        194 |         87 |        758 |
+| fourdle\components                                                                                 |          7 |        525 |         45 |         76 |        646 |
+| hexel                                                                                              |          4 |        649 |         35 |         82 |        766 |
+| hexel (Files)                                                                                      |          1 |        222 |          3 |         37 |        262 |
+| hexel\components                                                                                   |          3 |        427 |         32 |         45 |        504 |
+| menu                                                                                               |          1 |        127 |         10 |         18 |        155 |
+| utils                                                                                              |         11 |        968 |        163 |        190 |      1,321 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                           | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\cell.dart   | Dart     |         63 |          6 |         11 |         80 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\create.dart | Dart     |         42 |          0 |          5 |         47 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\daily.dart  | Dart     |         42 |          0 |          5 |         47 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\grid.dart   | Dart     |        168 |         31 |         23 |        222 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\head.dart   | Dart     |         45 |          1 |          7 |         53 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\score.dart  | Dart     |        124 |          7 |         21 |        152 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\components\solve.dart  | Dart     |         41 |          0 |          4 |         45 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\fourdlestate.dart      | Dart     |        196 |         42 |         43 |        281 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\fourdle\grids.dart             | Dart     |        281 |        152 |         44 |        477 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\hexcolor.dart                  | Dart     |         14 |          4 |          3 |         21 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\hexel\components\buttons.dart  | Dart     |        308 |         22 |         28 |        358 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\hexel\components\cell.dart     | Dart     |         78 |          9 |         10 |         97 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\hexel\components\header.dart   | Dart     |         41 |          1 |          7 |         49 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\hexel\hexelstate.dart          | Dart     |        222 |          3 |         37 |        262 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\logging.dart                   | Dart     |         12 |          0 |          2 |         14 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\main.dart                      | Dart     |        176 |         19 |         20 |        215 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\menu\menustate.dart            | Dart     |        127 |         10 |         18 |        155 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\styles.dart                    | Dart     |         90 |          4 |         14 |        108 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\menu.dart                | Dart     |         13 |          0 |          2 |         15 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\rect.dart                | Dart     |         57 |          4 |          7 |         68 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\renderhelpers.dart       | Dart     |         82 |          6 |         11 |         99 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\rng.dart                 | Dart     |         30 |          8 |          7 |         45 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\scroller.dart            | Dart     |        111 |         23 |         23 |        157 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\toolbar.dart             | Dart     |        151 |         15 |         28 |        194 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\types.dart               | Dart     |         47 |         17 |         16 |         80 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\uicontroller.dart        | Dart     |        157 |         48 |         41 |        246 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\uielement.dart           | Dart     |         64 |          2 |         14 |         80 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\utils.dart               | Dart     |        129 |         16 |         17 |        162 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\utils\wordviewer.dart          | Dart     |        127 |         24 |         24 |        175 |
+| c:\Users\kathe\OneDrive\Documents\Examples\Flutter\word_puzzles\lib\words.dart                     | Dart     |        236 |         46 |         38 |        320 |
+| Total                                                                                              |          |      3,274 |        520 |        530 |      4,324 |
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

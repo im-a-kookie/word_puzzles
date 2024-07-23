@@ -28,7 +28,7 @@ UIElement makeWordUi(UIPage game) {
       sender.tags["cached_bonus_found"] = "";
       for (int i = 0; i < 30; i++) {
         sender.tags.remove("cached_body_$i");
-        sender.tags.remove("soln_cache_$i");
+        sender.tags.remove("found_easy_$i");
       }
     },
     fPaintStart: (sender, bounds, c, s) {
@@ -76,8 +76,8 @@ UIElement makeWordUi(UIPage game) {
       if (letters != sender.tags["game_letters"]) {
         //set the new letters and update the things
         sender.tags["game_letters"] = letters;
-        sender.tags["found_hard"] = foundHard.length;
-        sender.tags["found_easy"] = foundEasy.length;
+        sender.tags["found_hard"] = -1;
+        sender.tags["found_easy"] = -1;
         //now figure out the longest words that we have
         Uint16List temp = Uint16List(50);
         for (var w in solveEasy.keys) {
